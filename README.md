@@ -1,6 +1,6 @@
 # 🛍️ EasyShop
 
-A static/dummy e-commerce shopping website created as a frontend web development project.
+A static  e-commerce shopping website created as a frontend web development project.
 
 > **Note:** This is a static/demo project. Some features and navigation links are for demonstration purposes and are not fully functional.
 
